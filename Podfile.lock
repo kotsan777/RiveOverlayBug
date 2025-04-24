@@ -1,0 +1,20 @@
+PODS:
+  - RiveRuntime (6.5.3)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - RiveRuntime (= 6.5.3)
+  - SnapKit (= 5.7.1)
+
+SPEC REPOS:
+  trunk:
+    - RiveRuntime
+    - SnapKit
+
+SPEC CHECKSUMS:
+  RiveRuntime: 5f81d2dbfc1745da7f71e01addddbc13dd7266d4
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: 7b34692b33b7916cde5490b6ad92fcf54d4e2772
+
+COCOAPODS: 1.16.2
